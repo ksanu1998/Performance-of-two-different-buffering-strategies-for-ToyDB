@@ -1,0 +1,72 @@
+
+Buffer Size: 20
+Buffer Mode: MRU
+Buffer Hits: 4513
+Buffer Hit Rate: 0.999778
+Buffer Misses: 1
+Buffer Miss Rate: 0.000222
+Buffer Evicts: 0
+Logical I/Os: 4513
+Physical I/Os: 10
+Average Lifespan: 0.000000
+Buffer Requests: 4514
+
+Buffer Size: 40
+Buffer Mode: MRU
+Buffer Hits: 4513
+Buffer Hit Rate: 0.999778
+Buffer Misses: 1
+Buffer Miss Rate: 0.000222
+Buffer Evicts: 0
+Logical I/Os: 4513
+Physical I/Os: 10
+Average Lifespan: 0.000000
+Buffer Requests: 4514
+
+Buffer Size: 40
+Buffer Mode: MRU
+Buffer Hits: 884
+Buffer Hit Rate: 0.604238
+Buffer Misses: 579
+Buffer Miss Rate: 0.395762
+Buffer Evicts: 706
+Logical I/Os: 884
+Physical I/Os: 1326
+Average Lifespan: 2.065156
+Buffer Requests: 1463
+
+Buffer Size: 40
+Buffer Mode: LRU
+Buffer Hits: 884
+Buffer Hit Rate: 0.902962
+Buffer Misses: 95
+Buffer Miss Rate: 0.097038
+Buffer Evicts: 222
+Logical I/Os: 884
+Physical I/Os: 358
+Average Lifespan: 4.387387
+Buffer Requests: 979
+
+Buffer Size: 40
+Buffer Mode: MRU
+Buffer Hits: 884
+Buffer Hit Rate: 0.604238
+Buffer Misses: 579
+Buffer Miss Rate: 0.395762
+Buffer Evicts: 706
+Logical I/Os: 884
+Physical I/Os: 1326
+Average Lifespan: 2.065156
+Buffer Requests: 1463
+
+Buffer Size: 40
+Buffer Mode: MRU
+Buffer Hits: 884
+Buffer Hit Rate: 0.604238
+Buffer Misses: 579
+Buffer Miss Rate: 0.395762
+Buffer Evicts: 706
+Logical I/Os: 884
+Physical I/Os: 1326
+Average Lifespan: 2.065156
+Buffer Requests: 1463
